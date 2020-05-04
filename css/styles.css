@@ -21,17 +21,3 @@ h3 {
 img {
   width: 200px;
 }
-
-input[type=text] {
-  width: 18%;
-  margin: 2px 0;
-}
-
-input[type=email] {
-  width: 18%;
-  margin: 2px 0;
-}
-input[type=password] {
-  width: 18%;
-  margin: 2px 0;
-}
